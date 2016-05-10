@@ -8,7 +8,7 @@ A simple python script to remove embedded watermarks and color stains for scanne
 
 ## Experimental Result
 
-![before](./screenshots/before.png "before") ![after](./screenshots/after.png "after")
+<img src="./screenshots/before.png" width="400px" title="before"/> <img src="./screenshots/after.png" width="400px"  title="after"/>
 
 ## Requirements
 
